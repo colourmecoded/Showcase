@@ -1,2 +1,2 @@
 # Showcase
-A page dedicated to showing my data analytcis journey.
+A page dedicated to showing my data analytics journey.
